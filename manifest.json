@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "files": [
+    "Bpass.dll",
+    "client.exe",
+    "client_engine.ini",
+    "client_game.ini",
+    "config.ini",
+    "dbghelp.dll",
+    "libeay32.dll",
+    "libiconv2.dll"    
+  ],
+  "protected": {
+    "client.exe": "9dbc9bb5519d40890dfa57f7be3771564339d9c3a03b0a2e3ef9915bf17d9207",
+    "Bpass.dll": "a13d10f0d23fd76824a209221de2f8909ba92701f6b5ff3073df5556fbf74741",
+    "libeay32.dll": "5eb29b254b9ee9ddd7b831ee51c788dfe2a899c61dd5eb2684e83580ef4bfdba",
+    "client_engine.ini": "205fc82f73f1b2b6364058d10c5607d6e66b86621e9eafb90a4b91c1cb603181",
+    "Client_game.ini": "08a0f45ddb3ad3df2a5ba47b615aca55f16fafda220d2d3bbba6a489ea46cdca",
+    "config.ini": "8e9931948ec90f7a5b4b981caa0d1843fcbe0200040374b985a4afc02ced3236",
+    "dbghelp.dll": "f089f6b1aa2a324603728c0453568201cb0ab6b8d3e8d6dcc2b000ad5cdfaba4",
+    "libiconv2.dll": "cb016e794d3311c71f21d87803e10a0e1133995f62a485eb37b321cd9b9e1087"
+  }
+}
