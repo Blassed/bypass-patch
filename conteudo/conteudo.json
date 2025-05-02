@@ -15,8 +15,8 @@
     { "titulo": "Novidade: Invasão de Monstros" }
   ],
   "imagens": {
-    "mini1": "https://raw.githubusercontent.com/Blassed/bypass-patch/conteudo/mini1.jpg",
-    "mini2": "https://raw.githubusercontent.com/Blassed/bypass-patch/conteudo/mini2.jpg",
-    "banner": "https://raw.githubusercontent.com/Blassed/bypass-patch/conteudo/banner.jpg"
+    "mini1": "https://raw.githubusercontent.com/Blassed/bypass-patch/conteudo/mini1.png",
+    "mini2": "https://raw.githubusercontent.com/Blassed/bypass-patch/conteudo/mini2.png",
+    "banner": "https://raw.githubusercontent.com/Blassed/bypass-patch/conteudo/banner.png"
   }
 }
