@@ -1,0 +1,22 @@
+{
+  "recomendados": [
+    {
+      "titulo": "SISTEMA DE MINERAÇÃO – COMO CONSEGUIR?",
+      "link": "https://bypassgames.com.br/anuncio1"
+    },
+    {
+      "titulo": "FIQUE FORTE NO JOGO DA MELHOR FORMA",
+      "link": "https://bypassgames.com.br/anuncio2"
+    }
+  ],
+  "noticias": [
+    { "titulo": "30/04: Manutenção" },
+    { "titulo": "Atualização: Segurança" },
+    { "titulo": "Novidade: Invasão de Monstros" }
+  ],
+  "imagens": {
+    "mini1": "https://raw.githubusercontent.com/Blassed/bypass-patch/main/conteudo/mini1.jpg",
+    "mini2": "https://raw.githubusercontent.com/Blassed/bypass-patch/main/conteudo/mini2.jpg",
+    "banner": "https://raw.githubusercontent.com/Blassed/bypass-patch/main/conteudo/banner.jpg"
+  }
+}
