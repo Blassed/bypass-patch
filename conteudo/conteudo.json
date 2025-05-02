@@ -10,13 +10,13 @@
     }
   ],
   "noticias": [
-    { "titulo": "30/04: Manutenção" },
+    { "titulo": "02/05: Manutenção" },
     { "titulo": "Atualização: Segurança" },
     { "titulo": "Novidade: Invasão de Monstros" }
   ],
   "imagens": {
-    "mini1": "https://raw.githubusercontent.com/Blassed/bypass-patch/main/conteudo/mini1.jpg",
-    "mini2": "https://raw.githubusercontent.com/Blassed/bypass-patch/main/conteudo/mini2.jpg",
-    "banner": "https://raw.githubusercontent.com/Blassed/bypass-patch/main/conteudo/banner.jpg"
+    "mini1": "https://raw.githubusercontent.com/Blassed/bypass-patch/conteudo/mini1.jpg",
+    "mini2": "https://raw.githubusercontent.com/Blassed/bypass-patch/conteudo/mini2.jpg",
+    "banner": "https://raw.githubusercontent.com/Blassed/bypass-patch/conteudo/banner.jpg"
   }
 }
