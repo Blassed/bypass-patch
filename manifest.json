@@ -11,7 +11,7 @@
     "libiconv2.dll"    
   ],
   "protected": {
-    "client.exe": "f3b34ed607e9a9fc2bcbc4c2b446b4283c3e6b52acce229e4a95b9e3b34ba241",
+    "client.exe": "9dbc9bb5519d40890dfa57f7be3771564339d9c3a03b0a2e3ef9915bf17d9207",
     "Bpass.dll": "a13d10f0d23fd76824a209221de2f8909ba92701f6b5ff3073df5556fbf74741",
     "libeay32.dll": "5eb29b254b9ee9ddd7b831ee51c788dfe2a899c61dd5eb2684e83580ef4bfdba",
     "client_engine.ini": "205fc82f73f1b2b6364058d10c5607d6e66b86621e9eafb90a4b91c1cb603181",
